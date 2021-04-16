@@ -1,0 +1,17 @@
+informacoes Nome, Telefone, Email, Nome {erro, informacao ja declarada}
+
+habilidades android, java, javascript, html, java {erro, habilidade ja declarada}
+
+projetos _p1, _p2, _p1 {projeto ja declarado}
+
+monta_portfolio
+	Nome <- "caio"
+	Telefone <- "35 98459-2516"
+	Email <- "caio@caio.com"
+
+	_p1("fiz um site", html)
+	_p2("fiz um app", android, html)
+	
+	{erro de habilidades declaradas e nao utilizadas}
+	
+fim_portfolio

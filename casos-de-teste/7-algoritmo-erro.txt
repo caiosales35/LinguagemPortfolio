@@ -1,0 +1,13 @@
+informacoes Nome, Telefone
+
+habilidades android
+
+projetos _p1, _p2
+
+monta_portfolio
+	Nome <- "caio"
+	Telefone <- "35 98459-2516"
+
+	_p1("fiz um site") {erro projeto nao possiu habilidade relacionada}
+	_p2("fiz um app", android, java) {erro habilidade nao declarada}
+fim_portfolio

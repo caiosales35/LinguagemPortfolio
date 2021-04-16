@@ -1,0 +1,17 @@
+informacoes Nome, Telefone, Email
+
+habilidades html, javascript, java, android
+
+projetos _p1, _p2, _p3, _p4
+
+monta_portfolio
+	Nome <- "Carlos Junior"
+	Telefone <- "35 98459-2516"
+	Email <- "carlos@junior.com.br"
+
+	_p1("Curso de React", javascript)
+	_p2("Aplicativo de jogo da forca", android, html)
+	_p3("Site de divulgacao de eventos", html, javascript)
+	_p4("Jogo mobile campo minado", java, android)
+	
+fim_portfolio

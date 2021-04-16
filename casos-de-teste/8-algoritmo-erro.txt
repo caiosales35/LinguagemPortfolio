@@ -1,0 +1,21 @@
+informacoes Nome, Telefone, Nome, Github {erro informacao ja declarada}
+
+habilidades html, javascript, java, html {erro habilidade ja declarada}
+
+projetos _p1, _p2, _p33, _p1, _p4 {erro projeto ja declarado}
+
+monta_portfolio
+	Nome <- "caio"
+	Telefone <- "35 98459-2516"
+	Email <- "caio@caio.com"  {erro informacao pessoal nao declarada}
+
+	_p1("fiz um site", html, javascript)
+	_p2("fiz um app", android, html)
+	_p3("site responsivo", javascript) {erro projeto nao declarado}
+	_p33("fiz um jogo da forca mobile") {erro projeto sem habilidade relaciona}
+	
+	{erro informacao pessoal declarada e nao utilizada}
+	{erro habilidade declarada e nao utilizada}
+	{erro projeto declarado e nao utilizado}
+	
+fim_portfolio

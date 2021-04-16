@@ -1,0 +1,14 @@
+informacoes Nome, Telefone, Email
+
+habilidades android, html
+
+projetos _p1, _p2, p33 {erro nessa linha, p33}
+
+monta_potfolio {erro nessa linha}
+	Nome <- "caio"
+	Telefone <- "35 98459-2516"
+	Email <- "caio@caio.com"
+
+	_p1("fiz um site", html)
+	_p2("fiz um app", android, html)
+fim_portfolio

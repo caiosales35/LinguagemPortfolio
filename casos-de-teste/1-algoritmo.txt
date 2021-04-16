@@ -1,0 +1,19 @@
+informacoes Nome, Telefone, Email, Linkedin, Github
+
+habilidades android, java, javascript, html
+
+projetos _p1, _p2, _p3
+
+monta_portfolio
+	Nome <- "Caio Cesar de Morais Sales"
+	Telefone <- "3598459-2516"
+	Email <- "caio@meuemail.com"
+	Linkedin <- "https://www.linkedin.com/in/caiosales"
+	Github <- "https://github.com/caiosales35"
+
+	_p1("Site responsivo para divulgacao de eventos", html)
+	_p2("Aplicativo mobile TO-DO-LIST nativo", android, html)
+	_p3("Calculadora cientifica mobile", javascript, java)
+
+	
+fim_portfolio

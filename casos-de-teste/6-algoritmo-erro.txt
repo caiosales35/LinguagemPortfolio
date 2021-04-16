@@ -1,0 +1,17 @@
+informacoes Nome, Telefone
+
+habilidades android, java, javascript, html
+
+projetos _p1, _p22
+
+monta_portfolio
+	Nome <- "caio"
+	Telefone <- "35 98459-2516"
+	Email <- "caio@caio.com" {erro informacao nao declarada}
+
+	_p1("fiz um site", html, javascript)
+	_p2("fiz um app", android, java) {erro projeto nao declarado}
+	
+	{erro projeto declarado e nao utilizado}
+	
+fim_portfolio
