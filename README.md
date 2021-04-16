@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Linguagem de programação para gerar portfolios HTML, desenvolvida na displina de construção de compilares. Possui analise léxica, sintática e semântica; além de geração de código.
 
-Para mais detalhes, consulte a documentação [Documentação] (Documentacao.pdf)
+Para mais detalhes, consulte a documentação [Documentação](Documentacao.pdf)
 
 ## Licença
 
